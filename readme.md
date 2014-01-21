@@ -40,9 +40,10 @@ Trying to build a list of parsers/interpreters/converters built in JavaScript.
 
 * **[JSON.js](https://github.com/douglascrockford/JSON-js)**
 * **[json-sans-eval](http://code.google.com/p/json-sans-eval/)**
+* **[tv4](http://geraintluff.github.io/tv4/)** (Tiny Validator for [v4 JSON Schema](http://json-schema.org/latest/json-schema-core.html))
 
 ### Comments
 
-[Doctrine](http://constellation.github.io/doctrine/demo/index.html) ([JSDoc](http://usejsdoc.org/) to JSON parcer
+**[Doctrine](http://constellation.github.io/doctrine/demo/index.html)** ([JSDoc](http://usejsdoc.org/) to JSON parcer
 
 ~fini~
